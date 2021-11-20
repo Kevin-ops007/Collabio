@@ -1,2 +1,2 @@
-# Collabio
+# collabio
 A Team collaboration tool
